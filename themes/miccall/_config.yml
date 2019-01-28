@@ -5,9 +5,9 @@
 # Head info
 head:
     title: ZXN
-    favicon: "/img/favicon.ico"
+    favicon: http://zxnhexoblog.oss-cn-hangzhou.aliyuncs.com/image/favicon.ico
     keywords: ZXN
-    backgroundpic : "img/bg3.jpg"
+    backgroundpic: http://zxnhexoblog.oss-cn-hangzhou.aliyuncs.com/image/bg3.jpg
 
 Intro:
     name: ZXN

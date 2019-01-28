@@ -4,7 +4,7 @@ date: 2018-03-26 15:09:16
 updated: 2018-03-26 15:09:16
 categories: java
 tags: [java, solr, 搜索]
-comments: true
+comments: false
 description: 你对本页的描述
 photos:
   - http://wx3.sinaimg.cn/mw690/e2d4a00bgy1fuudol49nij21kw11zkcu.jpg
@@ -253,7 +253,6 @@ Lucene是一个高效的，基于Java的 **全文检索库**。
 -  name：指定域的名称
 -  type：指定域的类型
 -  indexed：是否索引
-
 -  stored：是否存储
 -  required：是否必须
 -  multiValued：是否多值
